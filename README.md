@@ -23,7 +23,7 @@ Device with CameraX support
 
 * Clone the Repository
 
-git clone // TODO 
+git clone //(https://github.com/vaishalisutariya7/Object-Size-Estimation-App.git)
 cd ObjectSizeEstimationApp
 
 - Open in Android Studio
